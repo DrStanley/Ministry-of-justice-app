@@ -1,0 +1,272 @@
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csprojAssemblyReference.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.GenerateResource.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.CoreCompileInputs.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.dll.config
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.pdb
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.exe
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.exe.config
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.rsp
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.exe
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.exe.config
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.rsp
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.AppContext.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Console.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Net.Http.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.exe
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.exe.config
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.rsp
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Antlr3.Runtime.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\AutoMapper.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeDomain.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Newtonsoft.Json.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.WebApi.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Net.Http.Formatting.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Helpers.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.WebHost.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Mvc.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Optimization.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Razor.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\UAParser.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\WebActivatorEx.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\WebGrease.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\SendGrid.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\StarkbankEcdsa.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeDomain.pdb
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\AutoMapper.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.WebApi.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Net.Http.Formatting.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.WebHost.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Helpers.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Mvc.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Optimization.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Razor.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Newtonsoft.Json.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\UAParser.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Antlr3.Runtime.pdb
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.CopyComplete
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.pdb
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.Migrations.ServicesIntegrated.resources
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.Migrations.AddNotifications.resources
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.dll.config
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeWebUi.pdb
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.exe
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.exe.config
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csc.rsp
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.exe
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.exe.config
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\csi.rsp
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.AppContext.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Console.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Net.Http.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.exe
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.exe.config
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\vbc.rsp
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Antlr3.Runtime.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\AutoMapper.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeDomain.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Newtonsoft.Json.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.WebApi.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Net.Http.Formatting.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Helpers.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.WebHost.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Mvc.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Optimization.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Razor.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\UAParser.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\WebActivatorEx.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\WebGrease.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\SendGrid.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\StarkbankEcdsa.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\ministryofjusticeDomain.pdb
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\AutoMapper.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Ninject.Web.WebApi.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Net.Http.Formatting.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Http.WebHost.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Helpers.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Mvc.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Optimization.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.Razor.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Newtonsoft.Json.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\UAParser.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Antlr3.Runtime.pdb
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.AssemblyReference.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.Migrations.ServicesIntegrated.resources
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.Migrations.AddNotifications.resources
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.GenerateResource.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.CoreCompileInputs.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.csproj.CopyComplete
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeWebUi\obj\Debug\ministryofjusticeWebUi.pdb

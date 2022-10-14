@@ -1,0 +1,63 @@
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\ministryofjusticeDomain.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\ministryofjusticeDomain.pdb
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\EntityFramework.SqlServer.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\EntityFramework.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.Net.Http.Extensions.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.Net.Http.Primitives.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Newtonsoft.Json.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Owin.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\SendGrid.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\StarkbankEcdsa.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\UAParser.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.ComponentModel.DataAnnotations.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.ComponentModel.DataAnnotations.xml
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csprojAssemblyReference.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.AssemblyInfoInputs.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.AssemblyInfo.cs
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csproj.CoreCompileInputs.cache
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csproj.CopyComplete
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.dll
+C:\Users\Stanley\Source\Repos\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.pdb
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\ministryofjusticeDomain.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\ministryofjusticeDomain.pdb
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\EntityFramework.SqlServer.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\EntityFramework.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Threading.Tasks.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.Net.Http.Extensions.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.Net.Http.Primitives.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Newtonsoft.Json.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\Owin.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\SendGrid.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\StarkbankEcdsa.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\UAParser.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.ComponentModel.DataAnnotations.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\bin\Release\net45\System.ComponentModel.DataAnnotations.xml
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csproj.AssemblyReference.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.AssemblyInfoInputs.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.AssemblyInfo.cs
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csproj.CoreCompileInputs.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.csproj.CopyComplete
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.dll
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\ministryofjusticeDomain\obj\Release\net45\ministryofjusticeDomain.pdb

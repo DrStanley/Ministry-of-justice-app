@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpztv7woGAQeMX74BwEGh1T0VdEyUwgVOgfHe7XA+T16UKeA6nj3W8JBWaq2P0jQBZJrXVLvsGNIpRVm+F8FBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Today's Solutions\\OneDrive\\Documents\\GitHub\\ministryofjusticeappMain\\ministryofJusticeApp\\ministryofjusticeDomain\\ministryofjusticeDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.aspnet.identity.owin\\2.2.3\\microsoft.aspnet.identity.owin.2.2.3.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.bcl.async\\1.0.168\\microsoft.bcl.async.1.0.168.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.owin\\4.0.1\\microsoft.owin.4.0.1.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.owin.host.systemweb\\4.0.1\\microsoft.owin.host.systemweb.4.0.1.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.owin.security\\3.0.1\\microsoft.owin.security.3.0.1.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.owin.security.cookies\\3.0.1\\microsoft.owin.security.cookies.3.0.1.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.owin.security.oauth\\3.0.1\\microsoft.owin.security.oauth.3.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\sendgrid\\9.22.0\\sendgrid.9.22.0.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\starkbank-ecdsa\\1.2.0\\starkbank-ecdsa.1.2.0.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\uaparser\\3.1.46\\uaparser.3.1.46.nupkg.sha512"
+  ],
+  "logs": []
+}

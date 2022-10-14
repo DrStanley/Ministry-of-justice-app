@@ -1,0 +1,2 @@
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\TestMinistryOfJusticeapp.UnitTests\obj\Release\TestMinistryOfJusticeapp.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Today's Solutions\OneDrive\Documents\GitHub\ministryofjusticeappMain\ministryofJusticeApp\TestMinistryOfJusticeapp.UnitTests\obj\Release\TestMinistryOfJusticeapp.UnitTests.csproj.CoreCompileInputs.cache
